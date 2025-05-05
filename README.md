@@ -9,4 +9,4 @@ Along with basic and advanced JavaScript assignments, I've also started working 
 
 ### ✅ Project One  
 An interactive DOM-based project demonstrating basic event handling and manipulation.  
-🔗 [Live Demo(random emojis)](https://abdul-sami-abbasi.github.io/JS-Assignments/project_one/)
+🔗 [Live Demo ( random emojis )](https://abdul-sami-abbasi.github.io/JS-Assignments/project_one/)
