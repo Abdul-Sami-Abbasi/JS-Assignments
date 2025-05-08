@@ -9,4 +9,12 @@ Along with basic and advanced JavaScript assignments, I've also started working 
 
 ### ✅ Project One  
 An interactive DOM-based project demonstrating basic event handling and manipulation.  
-🔗 [Live Demo ( random emojis )](https://abdul-sami-abbasi.github.io/JS-Assignments/project_one/)
+🔗 [Live Demo (random emojis)](https://abdul-sami-abbasi.github.io/JS-Assignments/project_one/)
+
+### ✅ Project Two  
+A DOM project that features a dynamic counter with increment, decrement, and reset functionalities. Great for learning state handling and event-driven updates.  
+🔗 [Live Demo (counter app)](https://abdul-sami-abbasi.github.io/JS-Assignments/project_two/)
+
+### ✅ Project Three  
+A task list application where users can add, delete, and mark tasks as complete. It emphasizes DOM creation, array management, and local storage.  
+🔗 [Live Demo (task list)](https://abdul-sami-abbasi.github.io/JS-Assignments/project_three/)
