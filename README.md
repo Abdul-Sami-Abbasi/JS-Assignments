@@ -13,8 +13,8 @@ An interactive DOM-based project demonstrating basic event handling and manipula
 
 ### ✅ Project Two  
 A DOM project that features a dynamic counter with increment, decrement, and reset functionalities. Great for learning state handling and event-driven updates.  
-🔗 [Live Demo (counter app)](https://abdul-sami-abbasi.github.io/JS-Assignments/project_two/)
+🔗 [Live Demo (Change Colors)](https://abdul-sami-abbasi.github.io/JS-Assignments/project_two/)
 
 ### ✅ Project Three  
 A task list application where users can add, delete, and mark tasks as complete. It emphasizes DOM creation, array management, and local storage.  
-🔗 [Live Demo (task list)](https://abdul-sami-abbasi.github.io/JS-Assignments/project_three/)
+🔗 [Live Demo (feedback)](https://abdul-sami-abbasi.github.io/JS-Assignments/project_three/)
