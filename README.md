@@ -20,6 +20,9 @@ A feedback collection app where users select from emoji-based reactions — Sati
 🔗 [Live Demo (feedback)](https://abdul-sami-abbasi.github.io/JS-Assignments/project_three/)
 
 ### ✅ Project Four  
-A key code generator that shows the pressed key, keyCode, and code using DOM manipulation. It teaches event handling, dynamic HTML updates, and keyboard input tracking.
-
+A key code generator that shows the pressed key, keyCode, and code using DOM manipulation. It teaches event handling, dynamic HTML updates, and keyboard input tracking...
 🔗 [Live Demo (Keycode Generator)](https://abdul-sami-abbasi.github.io/JS-Assignments/project_four/)
+
+### ✅ Project Five  
+An interactive DOM-based calculator project demonstrating basic event handling and manipulation.  
+🔗 [Live Demo (DOM_Calculator)](https://abdul-sami-abbasi.github.io/JS-Assignments/project_five/)
